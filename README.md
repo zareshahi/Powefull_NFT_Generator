@@ -1,5 +1,7 @@
 # Welcome to HashLips 👄
 
+# ONLY USE NODEJS VERSION 16.X
+
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
